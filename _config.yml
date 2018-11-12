@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Standup Y"
 description: > # this means to ignore newlines until "email:"
-   I love coding, writing, design, beautiful things and God. 
+   I want to share what i love - coding, writing, design, beautiful things and God. 
    - Because life is short and brilliant.
 
 email: o112233o@naver.com
@@ -23,10 +23,10 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://yooninna.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+#twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname

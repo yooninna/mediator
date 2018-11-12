@@ -4,7 +4,7 @@ title:  "사람의 인생만큼 한없이 단단하며 동시에 이만큼 연�
 date:   2018-11-12 19:20:25
 categories: mediator feature
 tags: featured
-image: assets/article_images/2018-11-12-small happiness_in_everyday_life/forest_in_fog.jpg
+image: assets/article_images/2018-11-12-small happiness_in_everyday_life/forest_in_fog.JPG
 ---
 ## 일상 속에서 되새기는 사소한 행복
 

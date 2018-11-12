@@ -14,7 +14,7 @@ logo: "/assets/images/shell_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cblog_main_as_moon.jpg"
+cover: "/assets/images/blog_main_as_moon.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'

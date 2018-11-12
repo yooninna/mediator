@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "사람의 인생은 한없이 단단하 동시에 연약하다"
+title:  "사람의 인생은 한없이 단단하며 동시에 연약하다"
 date:   2018-11-12 20:20:25
 categories: mediator feature
 tags: featured

@@ -4,7 +4,7 @@ title:  "사람의 인생만큼 한없이 단단하며 동시에 이만큼 연�
 date:   2018-11-12 19:20:25
 categories: mediator feature
 tags: featured
-image: /assets/article_images/22018-11-12-small happiness_in_everyday_life/forest_in_fog.jpg
+image: assets/article_images/2018-11-12-small happiness_in_everyday_life/forest_in_fog.jpg
 ---
 # 드디어 안 읽는 책들을 모아서 알라딘에 판매했다. 미루고 미루었다 이제야 보내주는구나 싶어 후련하던 찰나, 점원으로부터 판매가 불가하단 말을 들었다. 책 곰팡이가 있어서 판매가 어렵다는 것이다. 자세히보니 위쪽에 마치 인쇄될 때 제자리를 찾지 못한 잉크처럼 조그맣고 까만점들이 드문드문 나있었다. 곰팡이라고 하면 푸르고 번식력이 왕성한 이미지가 강했는데 이런 모습의 곰팡이도 있구나- 싶었다.
 

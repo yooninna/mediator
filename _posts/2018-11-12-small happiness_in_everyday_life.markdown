@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "사람의 인생만큼 한없이 단단하며 동시에 이만큼 연약한 것은 다"
+title:  "사람의 인생만큼 한없이 단단하며 동시에 이만큼 연약한 것은 없다"
 date:   2018-11-12 20:20:25
 categories: mediator feature
 tags: featured

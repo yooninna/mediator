@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Standup Y"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   I love coding, writing, design, beautiful things and God. - Because life is short and brilliant.
 
 email: o112233o@naver.com
 #blog logo
@@ -34,8 +34,8 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+  - icon:	instagram
+    url:	https://www.instagram.com/inna_y_i_n/
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/yooninna
     desc:	Fork me on github
     share_url:
     share_title:

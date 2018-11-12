@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "사람의 인생만큼 한없이 단단하며 동시에 이만큼 연약한 것이 없다."
-date:   2018-11-12 19:20:25
+date:   2018-11-12 20:20:25
 categories: mediator feature
 tags: featured
 image: assets/article_images/2018-11-12-small happiness_in_everyday_life/forest_in_fog.JPG
